@@ -241,7 +241,7 @@ async def channels_info(bot, message):
     else:
         raise ValueError("Unexpected type of Channels")
 
-    text = '**Indexed Channels**\n'
+    text = '**Indexed Channels:**\n'
     for channel in channels:
         chat = await bot.get_chat(channel)
         if chat.username:
