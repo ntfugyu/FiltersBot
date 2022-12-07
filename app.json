@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Hansaka-Anuhas/Filters-Bot",
-    "repository": "https://github.com/Hansaka-Anuhas/Filters-Bot",
+    "website": "https://github.com/HansakaAnuhas/Filters-Bot",
+    "repository": "https://github.com/HansakaAnuhas/Filters-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
